@@ -8,8 +8,8 @@ Pliki:
 - SVM.ipynb - zawiera ucznenie klasyfikatorów SVM
 - CNN_training.ipynb - zawiera uczenie odpowiednich warstw konwolucyjnych
 - confussion_matrices.ipynb - wizualizacja wyników
-- CAM_visualization - wizualizacja GRAD-CAM
-- snr-deepdream - wizualizacja deepdream
+- CAM_visualization.ipynb - wizualizacja GRAD-CAM
+- snr-deepdream.ipynb - wizualizacja deepdream
 
 Dodatkowo link do dysku google zawierącego wytrenowane modele oraz wyniki uczenia:
 https://drive.google.com/drive/folders/1CMS0DiekNywAM4cpEUUvkXf_Xy1YUPmV?usp=sharing

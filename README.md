@@ -1,4 +1,4 @@
-# SNR_Projekt
+# Klasyfikacja owadów przy użyciu sieci vgg-16
 
 Projekt wykonany w ramach przedmiotu Szutczne Sieci Neuronowe na PW.
 
